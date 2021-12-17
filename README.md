@@ -14,3 +14,4 @@ Dalam tutorial ini, kita akan membuat rekaman jalur kendaraan, jadi masuk ke dal
 lalu berkelilinglah sebentar dan ketika Anda selesai ketik /stoprecord.
 
 Tutup game, dan pergi ke direktori scriptfiles gamemode Anda, seharusnya ada file bernama npcku.rec. pindahkan file tersebut kedalam <gamemodemu/npcmodes/recordings/>.
+
