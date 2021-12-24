@@ -96,6 +96,6 @@ if(IsPlayerNPC(playerid)) return 1;
 - **NPC saya hanya berdiri di spawnpoint**
 <br>Baca kembali, dan lakukan kembali bagian OnPlayerSpawn dari tutorial.
 
-**_Catatan : anda harus mengubah maksimal jumlah npc yang dapat terkoneksi kedalam server dibagkan server.cfg_**
+**_Catatan : anda harus mengubah maksimal jumlah npc yang dapat terkoneksi kedalam server dibagian server.cfg_**
 
 
