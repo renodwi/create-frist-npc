@@ -91,9 +91,11 @@ Sekarang compline gamemode anda dan coba lah.
 ```
 if(IsPlayerNPC(playerid)) return 1;
 ```
-- NPC saya tidak bergabung dengan server saya sama sekali
-Ini kemungkinan besar disebabkan oleh server Anda yang di-password
+- **NPC saya tidak bergabung dengan server saya sama sekali.**
+<br>Ini kemungkinan besar disebabkan oleh server Anda yang di-password
+- **NPC saya hanya berdiri di spawnpoint**
+<br>Baca kembali, dan lakukan kembali bagian OnPlayerSpawn dari tutorial.
 
-
+**_Catatan : anda harus mengubah maksimal jumlah npc yang dapat terkoneksi kedalam server dibagkan server.cfg_**
 
 
