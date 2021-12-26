@@ -1,6 +1,7 @@
 # Membuat npc pertama
-kali ini saya bakal menjelaskan cara ngebikin npc di SA:MP pakai bahasa indonesia, berikut langkah langkah nya
+kali ini saya bakal menjelaskan cara ngebikin npc di SA:MP pakai bahasa indonesia, berikut langkah langkah nya <br> <br>
 
+[**DOWNLOAD SCRIPT RECORDING NYA DI SINI**](https://github.com/Southclaws/samp-Hellfire/blob/master/filterscripts/npc_record.pwn)
 ## Recording a playback file
 Pertama-tama, kita perlu merekam file pemutaran untuk digunakan NPC kita. Sebelum kita memulai merekam file untuk npc kita, kita perlu memasang filterscript
 [npc record](https://github.com/Southclaws/samp-Hellfire/blob/master/filterscripts/npc_record.pwn) agar dapat memulai perekaman npc. Setelah filterscript
